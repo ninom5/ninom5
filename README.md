@@ -1,19 +1,7 @@
 ## Hi there 👋, I'm Nino
 
-<!--
-**ninom5/ninom5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Contact me
+You can reach me at milas.nino@gmail.com
 
 ## Languages
 <p align="left">
@@ -40,11 +28,11 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 <img src="https://camo.githubusercontent.com/7ee4e9aedadf7ec426e7f44967f6cdda0bbb0406970c80638bedfd0096917b20/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+<img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1659372218/solutions/logos/cloudinary_logo_for_white_bg.svg" width="40"/>
+
 </p>
 
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninom5&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninom5&layout=compact&theme=tokyonight)
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ninom5&theme=dracula)
