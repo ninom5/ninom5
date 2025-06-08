@@ -34,5 +34,5 @@ You can reach me at milas.nino@gmail.com
 </p>
 
 ## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninom5&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninom5&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninom5&layout=compact&theme=tokyonight)
