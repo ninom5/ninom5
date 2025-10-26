@@ -1,8 +1,5 @@
 ## Hi there 👋, I'm Nino
 
-## Contact me
-You can reach me at milas.nino@gmail.com
-
 <br />
 
 ## Languages
